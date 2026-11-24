@@ -50,6 +50,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Bekah Hawrot Weigel](http://bekahhw.github.io)
 * [Benjamin Lannon](https://lannonbr.com)
 * [Berat Bozkurt](https://beratbozkurt.net/)
+* [Bharat Singh Rawat](https://bharat-singh-rawat.github.io/)
 * [Bhavani Ravi](http://bhavaniravi.com)
 * [Bob Matyas](https://www.bobmatyas.com)
 * [Bouwe Westerdijk](https://bouwe.io)
